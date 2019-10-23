@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370588229959",
+    "firebase_url": "https://animal-hospital-c264e.firebaseio.com",
+    "project_id": "animal-hospital-c264e",
+    "storage_bucket": "animal-hospital-c264e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370588229959:android:7d9d946085c1b053eaac62",
+        "android_client_info": {
+          "package_name": "yhh.dev.animalhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370588229959-785fginu1980pht8p9129n9aam0p61cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yhh.dev.animalhospital",
+            "certificate_hash": "f1c7d16ca2f2cb5a4a6342b06bfc299d06584aa7"
+          }
+        },
+        {
+          "client_id": "370588229959-fef18g0ldfrqi3he6p24j1p2kcvp17aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAc8SxTyesCa6d0mvJkQK2JG9QULvZV1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370588229959-fef18g0ldfrqi3he6p24j1p2kcvp17aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
